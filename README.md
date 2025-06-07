@@ -1,13 +1,15 @@
-# 👋 Hi, I’m Deepika
+# Hi, I’m Deepika 👋
 
-💻 I’m passionate about AWS Cloud, DevOps, and Cloud-Native Apps
+I’m passionate about **AWS Cloud**, **DevOps**, and **Cloud-Native Apps**.
 
-🎓 B.Tech CSE @ Mohan Babu University
+🎓 Currently pursuing **B.Tech CSE** @ Mohan Babu University  
+☁️ Cloud Intern @ Whizlabs  
+☁️ Cloud Technologies Lead @ AWS Cloud Club MBU  
+✍️ Writing technical blogs on **AWS** and **DevOps** topics  
 
-☁️ Cloud Intern @ Whizlabs
-
-✍️ I write technical blogs on AWS and DevOps topics
-
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/deepikadabbugunta/)
-
+📫 Find me on [LinkedIn](https://www.linkedin.com/in/deepikadabbugunta/)  
 👩‍💻 Pronouns: She/Her
+
+### Fun Facts
+- ☕️ Coffee lover  
+- 🍫 Die-hard dark chocolate fan
