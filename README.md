@@ -1,4 +1,4 @@
-# Hi, I’m Deepika 👋
+# Hi, I’m Deepika Sidda 👋
 
 I’m passionate about **AWS Cloud**, **DevOps**, and **Cloud-Native Apps**.
 
@@ -7,7 +7,7 @@ I’m passionate about **AWS Cloud**, **DevOps**, and **Cloud-Native Apps**.
 ☁️ Cloud Technologies Lead @ AWS Cloud Club MBU  
 ✍️ Writing technical blogs on **AWS** and **DevOps** topics  
 
-📫 Find me on [LinkedIn](https://www.linkedin.com/in/deepikadabbugunta/)  
+📫 Find me on [LinkedIn](www.linkedin.com/in/deepika-sidda21)  
 👩‍💻 Pronouns: She/Her
 
 ### Fun Facts
