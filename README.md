@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I’m Deepika
 
-<!--
-**DeepikaSidda/DeepikaSidda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I’m passionate about AWS Cloud, DevOps, and Cloud-Native Apps
 
-Here are some ideas to get you started:
+🎓 B.Tech CSE @ Mohan Babu University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+☁️ Cloud Intern @ Whizlabs
+
+✍️ I write technical blogs on AWS and DevOps topics
+
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/deepikadabbugunta/)
+
+👩‍💻 Pronouns: She/Her
