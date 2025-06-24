@@ -4,7 +4,7 @@ I’m passionate about **AWS Cloud**, **DevOps**, and **Cloud-Native Apps**.
 
 🎓 Currently pursuing **B.Tech CSE** @ Mohan Babu University  
 ☁️ Cloud Intern @ Whizlabs  
-☁️ Cloud Technologies Lead @ AWS Cloud Club MBU  
+☁️ [Cloud Technologies Lead @ AWS Cloud Club MBU](https://www.credly.com/badges/7e6f0332-33ea-4213-8732-9010ac487661/public_url)  
 ✍️ Writing technical blogs on **AWS** and **DevOps** topics  
 
  
